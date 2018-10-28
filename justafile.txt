@@ -1,3 +1,4 @@
 justA text
-justA text  
-just a new Text 
+justA text
+just a new Text
+Adding the new line with git dependencies
